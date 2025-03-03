@@ -12,6 +12,7 @@ public class NotebookView extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("/notebook.fxml"));
         Parent root = fxmlLoader.load();
+        stage.setTitle("Notebook");
 
         stage.setScene(new Scene(root));
         stage.show();
