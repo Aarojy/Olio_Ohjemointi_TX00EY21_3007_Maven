@@ -1,6 +1,4 @@
-package Task8_2.task1;
-
-import Task8_1.Pen;
+package Task8_2.task2;
 
 import java.util.ArrayList;
 

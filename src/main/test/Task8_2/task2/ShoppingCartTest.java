@@ -1,4 +1,4 @@
-package Task8_2.task1;
+package Task8_2.task2;
 
 import org.junit.jupiter.api.Test;
 
